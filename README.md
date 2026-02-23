@@ -6,6 +6,7 @@ InkNotes is a web application that converts PDF documents into handwritten-looki
 - **PDF Upload**: Drag and drop PDF files.
 - **Handwriting Synthesis**: Generates realistic handwriting strokes.
 - **Customizable Styles**: Choose between "Neat", "Casual", and "Messy" styles.
+- **Improved Rendering**: New `render_to_image` methods in `font_renderer.py` and `stroke_renderer.py` allow for easier integration, and new colors (green, pink) are supported.
 - **Notebook Rendering**: Renders text onto lined or dotted notebook paper.
 - **PDF Export**: Download the result as a multi-page PDF.
 
