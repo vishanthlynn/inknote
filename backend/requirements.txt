@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+torch
+numpy
+pillow
+reportlab
+pdfplumber
+pytesseract
+requests
+aiofiles
+pydantic-settings
+python-dotenv
+svgwrite
+matplotlib

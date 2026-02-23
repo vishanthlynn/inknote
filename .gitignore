@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+.vercel
+.turbo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Outputs & Logs
+backend/outputs/
+backend/uploads/
+backend-node/outputs/
+backend-node/uploads/
+*.png
+*.pdf
+errors.log
+test_output.png
+preview_test.png
+test_fix_v2.png
+
+# Fonts (if downloaded locally)
+backend/assets/fonts/*.ttf
+backend/assets/fonts/*.ttc
